@@ -1,0 +1,12 @@
+.timer1 {
+    text-align: center;
+    color:antiquewhite;
+    background-image:url("digger.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-bottom: 30rem;
+}
+.style {
+    background-color: darkslategrey;
+    padding: 5rem;
+}
