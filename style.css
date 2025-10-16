@@ -4,6 +4,7 @@
     background-image:url("digger.jpg");
     background-repeat: no-repeat;
     background-position: center;
+    background-size: contain;
     padding-bottom: 30rem;
 }
 .style {
